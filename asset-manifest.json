@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/basic-timer/static/css/main.5227302e.chunk.css",
+    "main.js": "/basic-timer/static/js/main.282330ae.chunk.js",
+    "main.js.map": "/basic-timer/static/js/main.282330ae.chunk.js.map",
+    "runtime-main.js": "/basic-timer/static/js/runtime-main.734722d7.js",
+    "runtime-main.js.map": "/basic-timer/static/js/runtime-main.734722d7.js.map",
+    "static/css/2.f524894f.chunk.css": "/basic-timer/static/css/2.f524894f.chunk.css",
+    "static/js/2.276982e1.chunk.js": "/basic-timer/static/js/2.276982e1.chunk.js",
+    "static/js/2.276982e1.chunk.js.map": "/basic-timer/static/js/2.276982e1.chunk.js.map",
+    "index.html": "/basic-timer/index.html",
+    "precache-manifest.6dc4d29ce6e6254013e8f72c97d15897.js": "/basic-timer/precache-manifest.6dc4d29ce6e6254013e8f72c97d15897.js",
+    "service-worker.js": "/basic-timer/service-worker.js",
+    "static/css/2.f524894f.chunk.css.map": "/basic-timer/static/css/2.f524894f.chunk.css.map",
+    "static/css/main.5227302e.chunk.css.map": "/basic-timer/static/css/main.5227302e.chunk.css.map",
+    "static/js/2.276982e1.chunk.js.LICENSE.txt": "/basic-timer/static/js/2.276982e1.chunk.js.LICENSE.txt",
+    "static/media/Cool-alarm-tone-notification-sound.mp3": "/basic-timer/static/media/Cool-alarm-tone-notification-sound.8c0b93aa.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.734722d7.js",
+    "static/css/2.f524894f.chunk.css",
+    "static/js/2.276982e1.chunk.js",
+    "static/css/main.5227302e.chunk.css",
+    "static/js/main.282330ae.chunk.js"
+  ]
+}
